@@ -276,21 +276,27 @@ int main()
 } 
 Output
 (A)
+![Uploading Output_8A.png…]()
 
 
 (B)
+![Uploading Output_8B.png…]()
 
 
 (C)
+![Uploading Output_8C.png…]()
 
 
 (D)
+![Uploading Output_8D .png…]()
 
 
 (E)
+![Uploading Output_8E.png…]()
 
 
 (F)
+![Uploading Output_8F.png…]()
 
 
 Conclusion
