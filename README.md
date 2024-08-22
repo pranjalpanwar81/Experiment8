@@ -274,30 +274,28 @@ int main()
 
     return 0;
 } 
-Output
-(A)
-![Uploading Output_8A.png…]()
 
+
+Output:-
+(A)
+https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8A.png
 
 (B)
-![Uploading Output_8B.png…]()
-
+https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8B.png
 
 (C)
-![Uploading Output_8C.png…]()
-
+https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8C.png
 
 (D)
-![Uploading Output_8D .png…]()
-
+https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8C.png
 
 (E)
-![Uploading Output_8E.png…]()
-
+https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8E.png
 
 (F)
-![Uploading Output_8F.png…]()
+https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8E.png
 
 
-Conclusion
+Conclusion --->
+
 I learnt about the various operations performed on matrices and how we can do the same in C++ using two-dimensional arrays.
