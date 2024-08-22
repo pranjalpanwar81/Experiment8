@@ -278,22 +278,21 @@ int main()
 
 Output:-
 (A)
-https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8A.png
+https://github.com/Shloka-Patel/Experiment---8/raw/main/Output_8A.png
 
 (B)
-https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8B.png
+
 
 (C)
-https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8C.png
+
 
 (D)
-https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8C.png
+
 
 (E)
-https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8E.png
+
 
 (F)
-https://github.com/Shloka-Patel/Experiment---8/blob/main/Output_8E.png
 
 
 Conclusion --->
