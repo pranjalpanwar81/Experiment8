@@ -278,21 +278,27 @@ int main()
 
 Output:-
 (A)
-https://github.com/Shloka-Patel/Experiment---8/raw/main/Output_8A.png
+![Output_8A](https://github.com/user-attachments/assets/b4131c61-e6e3-48f9-bb95-b00c0f80eb38)
+
 
 (B)
+![Output_8B](https://github.com/user-attachments/assets/0c0fefc8-79c0-43fc-b735-93b61052a799)
 
 
 (C)
+![Output_8C](https://github.com/user-attachments/assets/6f16780d-11d6-4156-a808-1a129a204009)
 
 
 (D)
+![Output_8D ](https://github.com/user-attachments/assets/4a6a8659-3b4a-44eb-8a2d-6afa4337626b)
 
 
 (E)
+![Output_8E](https://github.com/user-attachments/assets/312a2a1c-6b1d-4341-9547-9417af95b3aa)
 
 
 (F)
+![Output_8F](https://github.com/user-attachments/assets/eb29afd1-6f64-41ff-a85a-3ac7707091e3)
 
 
 Conclusion --->
