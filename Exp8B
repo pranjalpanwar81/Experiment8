@@ -1,45 +1,72 @@
 // NAME - Pranjal Panwar 
 // PRN - 23070123164 
-// EXPERIMENT - 8 
+// EXPERIMENT - 8  
 
-#include<iostream> 
-using namespace std; 
+#include <iostream>
+using namespace std;
 
-int main() 
-{
-    int a[4][4], i, j, k, l;
-    for (i=0; i<4; i++) {
-        for (j=0; j<4; j++) {
-            cout<<"Enter elements: ("<<i<<j<<"):";
-            cin>>a[i][j];
+int main() {
+    // Define matrix dimensions
+    int r1 = 3, c1 = 3;
+    int r2 = 3, c2 = 3;
+
+    int m1[r1][c1], m2[r2][c2], sum[r1][c1];
+
+    cout << "Enter elements of the first matrix:" << endl;
+    for (int i = 0; i < r1; ++i) {
+        for (int j = 0; j < c1; ++j) {
+            cout << "Enter element at position (" << i << ", " << j << "): ";
+            cin >> m1[i][j];
         }
     }
-    for (k=0; k<4; k++) {
-        for (l=0; l<4; l++) {
-            cout<<a[k][l];
-            cout<<" ";
+    cout << "Enter elements of the second matrix:" << endl;
+    for (int i = 0; i < r2; ++i) {
+        for (int j = 0; j < c2; ++j) {
+            cout << "Enter element at position (" << i << ", " << j << "): ";
+            cin >> m2[i][j];
         }
-        cout<<"\n";
     }
+
+    for (int i = 0; i < r1; ++i) {
+        for (int j = 0; j < c1; ++j) {
+            sum[i][j] = m1[i][j] + m2[i][j];
+        }
+    }
+ 
+
+    cout << endl << "Sum of matrices:" << endl;
+    for (int i = 0; i < r1; ++i) {
+        for (int j = 0; j < c1; ++j) {
+            cout << sum[i][j] << " ";
+        }
+        cout << endl;
+    }
+
+    return 0;
 }
 
-// Enter elements: (00):2
-// Enter elements: (01):7
-// Enter elements: (02):4
-// Enter elements: (03):3
-// Enter elements: (10):6
-// Enter elements: (11):7
-// Enter elements: (12):9
-// Enter elements: (13):8
-// Enter elements: (20):4
-// Enter elements: (21):3
-// Enter elements: (22):25
-// Enter elements: (23):34
-// Enter elements: (30):38
-// Enter elements: (31):7
-// Enter elements: (32):6
-// Enter elements: (33):0
-// 2 7 4 3
-// 6 7 9 8
-// 4 3 25 34
-// 38 7 6 0
+// Enter elements of the first matrix:
+// Enter element at position (0, 0): 1
+// Enter element at position (0, 1): 2
+// Enter element at position (0, 2): 3
+// Enter element at position (1, 0): 4
+// Enter element at position (1, 1): 5
+// Enter element at position (1, 2): 6
+// Enter element at position (2, 0): 7
+// Enter element at position (2, 1): 8
+// Enter element at position (2, 2): 9
+// Enter elements of the second matrix:
+// Enter element at position (0, 0): 0
+// Enter element at position (0, 1): 9
+// Enter element at position (0, 2): 8
+// Enter element at position (1, 0): 7
+// Enter element at position (1, 1): 6
+// Enter element at position (1, 2): 5
+// Enter element at position (2, 0): 4
+// Enter element at position (2, 1): 3
+// Enter element at position (2, 2): 0
+//  
+// Sum of matrices:
+// 1 11 11
+// 11 11 11
+// 11 11 9
