@@ -1,11 +1,10 @@
-Experiment---8
-Aim
-To study and implement C++ 2D Array - Matrices.
+# Experiment---8
+Aim --> To study and implement C++ 2D Array - Matrices.
 
-Software Used
-Visual Studio Code
+Software Used ---> Visual Studio Code
 
 Theory
+
 A data structure that is used to store colection of the itmas of same data type is known as an Array.
 An array can be multidimensional also.
 A multidimensional array is an array with more than one dimension. It is the homogeneous collection of items where each element is accessed using multiple indices.
