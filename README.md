@@ -16,8 +16,7 @@ Like a one-dimensional array, two-dimensional array indices also range from 0 to
 
 Code
 (A)
-
-
+```
 #include<iostream> 
 using namespace std; 
 
@@ -38,9 +37,9 @@ int main()
         cout<<"\n";
     }
 }
-
+```
 (B)
-
+```
 #include <iostream>
 using namespace std;
 
@@ -83,8 +82,9 @@ int main() {
 
     return 0;
 }
+```
 (C)
-
+```
 #include <iostream>
 using namespace std;
 
@@ -127,9 +127,9 @@ int main() {
 
     return 0;
 }
-
+```
 (D)
-
+```
 #include <iostream>
 using namespace std;
 
@@ -158,9 +158,9 @@ int main()
     printDiagonalSums(a, 4); 
     return 0; 
 }
-
+```
 (E)
-
+```
 // Multiplication of two matrices. 
 
 #include<iostream> 
@@ -229,9 +229,9 @@ int main()
 
     return 0;
 } 
-
+```
 (F)
-
+```
 // To find the transpose of a matrix. 
 
 #include<iostream> 
@@ -274,7 +274,7 @@ int main()
 
     return 0;
 } 
-
+```
 
 Output:-
 (A)
